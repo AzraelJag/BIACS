@@ -18,7 +18,7 @@ Environment:
  
  =======================================
  
- Jun 2018: prototyp: release 0.1.1
+ Jun 2018: prototyp: release 0.1.1.
            - run on desktop and android devices
 
  Mai 2018: prototyping
