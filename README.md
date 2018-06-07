@@ -1,5 +1,5 @@
 # BIACS
-Blockchain InApp Currency Solution
+# Blockchain InApp Currency Solution
 
 Aim of this project is developing an Open-Source solution witch can be embedded into apps, handling currency based on Blockchain-Token System.
 
