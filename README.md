@@ -28,7 +28,7 @@ Environment:
 
  Apr 2018: Design and Start of development
 
- Mrz 2018: Concept of project and tool-evaluation
+ Mrz 2018: Concept and tool-evaluation
 
  Feb 2018: Start of project
  
