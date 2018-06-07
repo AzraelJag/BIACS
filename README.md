@@ -8,13 +8,15 @@ Twitter: https://twitter.com/BIACS7
 Homepage: 
 
 Environment:
-- jafvafx Ports
+- javafx 8
+- jafvafx ports
 - web3j: Web3 Java Ethereum Ðapp API / access via "influa" HTTP Service
-- GLUON (desktop, android, ios)
+- Eclipse/ GLUON Plugin (desktop, android, ios) , Gradle
 
  protoyp is based on ETHERIUM Blockchain:
- - using ETH-Token "UIG" contractAdress: 
- - APP-Wallet-Adress:
+ - using ETH-Token "UIG" contractAdress: "0x5ab39784b7ab27692dc2748dadfaefe314a712e5"
+ - APP-Wallet-Adress: "0x5ab39784b7ab27692dc2748dadfaefe314a712e5"
+ 
  
  =======================================
 
