@@ -9,7 +9,7 @@ Homepage:
 
 Environment:
 - jafvafx Ports
-- Web3j / access via "influa" HTTP Service
+- web3j: Web3 Java Ethereum Ðapp API / access via "influa" HTTP Service
 - GLUON (desktop, android, ios)
 
  protoyp is based on ETHERIUM Blockchain:
