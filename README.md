@@ -13,8 +13,10 @@ Environment:
  - APP-Wallet-Adress:
  
  =======================================
+
  time schedule and updates
- --------
+ 
+ =======================================
  
  Jun 2018: prototyp: release 0.1.1
            - run on desktop and android devices
