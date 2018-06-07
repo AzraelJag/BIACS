@@ -17,9 +17,13 @@ Environment:
  --------
  
  Jun 2018: prototyp: release 0.1.1
+
  Mai 2018: prototyping
+
  Apr 2018: Design and Start of development
- Mrz 2018: Concept of project and Tool-evaluation
+
+ Mrz 2018: Concept of project and tool-evaluation
+
  Feb 2018: Start of project
  
  
